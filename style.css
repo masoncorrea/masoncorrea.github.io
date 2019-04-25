@@ -14,12 +14,12 @@ font-size: 100px;
 
 #div2 {
     background-color: chocolate;
-    width: 1000px;
+    width: 100px;
     height: 100px;
     border-radius: 15px 50px 30px;
     margin: auto;
     color: blue;
     text-align: center;
-    font-size: 1000px;
+    font-size: 100px;
     font-family: sans-serif;
 }
